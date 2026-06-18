@@ -1,4 +1,4 @@
-## 🪄🎩 Wizarding ML Lab
+## Wizarding ML Lab
 
 Inspired by the Harry Potter universe, this project brings magical experiences into the real world through embedded systems and machine learning.
 
